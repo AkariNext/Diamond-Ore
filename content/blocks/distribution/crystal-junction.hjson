@@ -1,0 +1,12 @@
+type: Junction
+health: 80
+name: Crystal Junction
+speed: 1
+capacity: 8
+requirements: [
+  graphite/2
+  silicon/2
+  diamond/1
+] 
+category: distribution
+research: mass-distributer
