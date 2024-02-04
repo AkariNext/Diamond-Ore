@@ -29,7 +29,7 @@ requirements: [
   phase-fabric/100000
   diamond/100000
   cryogem/100000
-  ancient-alloy/100000
+  ancient-alloy/25000
 ]
 category: effect
 research: ancient-mending-obelisk
