@@ -1,0 +1,15 @@
+name: Crystal Unloader
+description: Unloads the selected item from nearby blocks.
+type: Unloader
+hasItems: true
+speed: 2
+health: 670
+size: 1
+buildCostMultiplier: 0.2
+requirements: [
+  silicon/60
+  titanium/50
+  diamond/25
+]
+category: effect
+research: unloader

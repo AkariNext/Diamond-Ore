@@ -1,0 +1,21 @@
+name: Crystal Pump
+description: Pumps and output liquids.
+type: Pump
+health: 1200
+size: 3
+liquidCapacity: 600
+hasPower: true
+drawLiquidLight: false
+pumpAmount: 1.25
+consumes: {
+  power: 2.5
+}
+requirements: [
+  copper/200
+  metaglass/300
+  thorium/250
+  silicon/150
+  diamond/105
+]
+category: liquid
+research: impulse-pump
