@@ -1,5 +1,5 @@
 name: Crystal Router
-description: "アイテムを周辺の機械に分配します".
+description: Distributes items to surrounding machines
 capacity: 25
 type: Router
 hasItems: true
