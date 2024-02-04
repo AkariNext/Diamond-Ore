@@ -1,4 +1,4 @@
-//type: Wall
+type: Wall
 name: Large Dark Spore Wall
 description: A large self-regenerating spore wall.
 health: 4000

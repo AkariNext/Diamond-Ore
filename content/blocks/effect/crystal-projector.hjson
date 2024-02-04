@@ -6,16 +6,17 @@ buildCostMultiplier: 0.75
 hasPower: true
 baseColor: 82e4e988
 phaseColor: 00ffff
+reload: 60
 speedBoost: 8
 speedBoostPhase: 4
-range: 1000
+range: 1500
 phaseRangeBoost: 200
-useTime: 120
+useTime: 400
 consumes: {
   power: 50
   items: {
     items: [
-      diamond/10
+      diamond/50
     ]
     booster: true
 	optional: true

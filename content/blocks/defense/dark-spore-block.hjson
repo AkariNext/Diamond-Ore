@@ -1,4 +1,4 @@
-//type: Wall
+type: Wall
 name: Dark Spore Wall
 description: A self-regenerating spore wall.
 health: 1000

@@ -1,4 +1,4 @@
-//type: Conveyor
+type: Conveyor
 health: 1200
 name: Spore Conveyor
 solid: true
