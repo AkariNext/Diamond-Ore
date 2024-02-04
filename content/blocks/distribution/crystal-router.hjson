@@ -4,14 +4,12 @@ capacity: 25
 type: Router
 hasItems: true
 speed: 40
-health: 800
+health: 600
 size: 1
 buildCostMultiplier: 0.2
 requirements: [
-  copper/10
-  lead/10
-  silicon/5
   graphite/3
+  silicon/3
   diamond/1
 ]
 category: distribution
