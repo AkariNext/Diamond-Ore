@@ -4,7 +4,7 @@ type: StorageBlock
 itemCapacity: 54000
 hasItems: true
 health: 30625
-size: 3
+size: 7
 buildCostMultiplier: 0.666666
 requirements: [
   lead/1500
