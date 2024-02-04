@@ -3,7 +3,7 @@ description: Distributes items to surrounding machines
 capacity: 25
 type: Router
 hasItems: true
-speed: 2
+speed: 40
 health: 800
 size: 1
 buildCostMultiplier: 0.2
