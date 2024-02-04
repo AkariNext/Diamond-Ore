@@ -1,10 +1,10 @@
 name: Omni Vault
 description: The absolute ultimate item storage block, capable of storing countless items of each type. Its destruction will result in a tremendous explosion!
-//type: Vault
+type: StorageBlock
 itemCapacity: 54000
 hasItems: true
 health: 30625
-size: 7
+size: 3
 buildCostMultiplier: 0.666666
 requirements: [
   lead/1500
